@@ -168,3 +168,12 @@ $RECYCLE.BIN/
 
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
+
+# data files go here
+
+#code files go here
+311DataParce.py
+Parcing_data.py
+#notebook files go here
+
+# parsing files go here
