@@ -1,0 +1,10 @@
+1. **Streets with Multiple Violations**:
+   - This visualization identifies streets with recurring violations by aggregating records based on the `sam_id`, a unique identifier for properties. It filters for `sam_id` occurrences greater than two and then counts how frequently each corresponding street is mentioned. This graph highlights streets prone to repeated violations, suggesting areas that might benefit from targeted enforcement or preventative measures.
+2. **Top 10 Violation Streets**:
+   - By counting the occurrences of `violation_street` entries, this chart ranks the top 10 streets with the highest number of reported violations. This visualization helps to pinpoint hotspots of non-compliance within the area, shedding light on where resources might be best allocated to address these issues.
+3. **Heatmap of Violation Type**:
+   - Utilizing the `description` field, this heatmap displays the frequency of each type of violation across different streets. It reveals patterns in the prevalence of specific violations per street, providing insights into common compliance issues in certain areas. This information could guide targeted interventions or public awareness campaigns.
+4. **Heatmap**:
+   - Based on the latitude and longitude of each record, this heatmap visualizes the concentration of violations in specific geographic areas. Areas with a higher density of violations appear more prominently, allowing for a quick visual assessment of which neighborhoods might be experiencing higher levels of non-compliance or other issues.
+5. **Boston Violations Map**:
+   - This map marks the exact locations of recorded violations using the geographic coordinates provided in the dataset. It offers a detailed view of where violations are occurring within the city, enabling a granular analysis of problem areas. This visualization can be particularly useful for local authorities or urban planners looking to address specific issues or improve citywide compliance strategies.
