@@ -30,6 +30,8 @@ In the `ds-boston-building-violations`, navigate to `sp24-team-b` which is where
 - **Building and property violations:** Utilized the datasets from 2019 to 2024. (https://data.boston.gov/dataset/building-and-property-violations1)
 - **Boston 311 requests:** Utilized the datasets from 2019 to 2024. (https://data.boston.gov/dataset/311-service-requests)
 - **Property Assessment:** Utilized the datasets from 2019 to 2024. (https://data.boston.gov/dataset/property-assessment)
+- **2020 Census for Boston:** Utilized the 2020 Census Boston neighborhood data. (https://data.boston.gov/dataset/2020-census-for-boston)
+- **Income Data:** Utilized this website in our research of Boston neighborhood income data. (https://www.point2homes.com/US/Neighborhood/MA/Boston-Demographics.html)
 
 ## Getting Started
 
