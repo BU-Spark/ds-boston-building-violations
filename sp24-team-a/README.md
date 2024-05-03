@@ -6,4 +6,3 @@ Carlos Contreras Class 2025 - team lead
 Xuadon Wang - Class of 24
 Jeffrey Zhao - Class of 20204
 Julien Shyu - Class of 2024
-
