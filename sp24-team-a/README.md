@@ -1,3 +1,8 @@
+Carlos Contreras - Class of 2025 - team lead 
+Xudong Wang - Class of 2024
+Jeffrey Zhao - Class of 2024 
+Julian Shyu - Class of 2024
+
 Build_prop.ipynb: 
 This note is focused on how to analyze the Building and Property Violations, which is the work we have done in the early insight part.
 -Are there certain landlords/ management companies that have repeated violations?
