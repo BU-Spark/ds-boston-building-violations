@@ -1,1 +1,1 @@
-This folder contains all of the cleaned files used in this report as well as the Python notebooks used in the report.
+This folder contains the Python notebooks used in the report. The files are to large to be stored on GitHub, please refer to the Google Drive to see the cleaned datasets.
